@@ -14,9 +14,9 @@ It's developed by Pavana Narayana Bhat AKA pixincreate(the guy you see on YouTub
 V3 is the 3rd version and I've uploaded it right here.
 
 ## Steps to followed to use this script:
-1. Enable Developer Options by going to ABOUT >> SYSTEM >> Click the BUILD NUMBER 7 times (Universally) incase of MIUI, Click MIUI VERSION 7 times.
-2. Enable USB Debugging
-3. Download and Run the EnSecacy.exe script within the DOWNLOADED folder itself, else it will not work.
+- Enable Developer Options by going to ABOUT >> SYSTEM >> Click the BUILD NUMBER 7 times (Universally) incase of MIUI, Click MIUI VERSION 7 times.
+- Enable USB Debugging
+- Download and Run the EnSecacy.exe script within the DOWNLOADED folder itself, else it will not work.
 Everything else has been elaborated in EnSecacy.exe itself in detail.
 
 ## About Me:
@@ -27,7 +27,7 @@ You can find me on: Instagram, Facebook, YouTube, Twitter
    @pixincreate is the userName. See you there.:)
 
 © PiXinCreate
-- All rigths reserved.
+All rigths reserved.
 
 # ChangeLogs:
 

@@ -30,7 +30,7 @@ echo 1. Remove Bloatwares.
 echo 2. Bloatware List.
 echo 3. Tips for Securing Privacy.
 echo 4. Keep Radios unmodified when flight mode toggled.(Wifi/NFC/Bluetooth).
-echo 5. Optimise Battery.
+echo 5. Optimise Device.
 echo 6. Change Refresh Rate
 echo 7. Exit.
 echo.

@@ -20,11 +20,11 @@ V3 is the 3rd version and I've uploaded it right here.
 Everything else has been elaborated in EnSecacy.exe itself in detail.
 
 # About Me:
-I'm Pavana Narayana Bhat, a coder, and a YouTuber running PiXinCreate on YouTube. 
+   I'm Pavana Narayana Bhat, a coder, and a YouTuber running PiXinCreate on YouTube. 
 I make videos related to Photo editing where I teach my fellow viewers to edit photos on their own to the extinct I know. 
 I'm a Privacy Centered tech enthusiast.
 You can find me on: Instagram, Facebook, YouTube, Twitter
-@pixincreate is the userName. See you there.:)
+   @pixincreate is the userName. See you there.:)
 
 © PiXinCreate
 All rigths reserved.

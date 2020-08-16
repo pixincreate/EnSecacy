@@ -3,7 +3,7 @@
 Detect and Remove "ALL" MIUI Bloatwares and "Enhance" your Privacy.
 
 
-About EnSecacy:
+# About EnSecacy:
 		EnSecacy's expansion is Enhanced Security and Privacy. Although it's not "really" enhanced,
 	this script will help you in getting out of trackers
   	and Ads that can be seen on Xiaomi Phones. By using this script, I  BET, YOU'LL BE SATISFIED after
@@ -13,13 +13,13 @@ And this is what led me to create EnSecacy and create this repo.
 It's developed by Pavana Narayana Bhat AKA pixincreate(the guy you see on YouTube especially).
 V3 is the 3rd version and I've uploaded it right here.
 
-Steps to followed to use this script:
+# Steps to followed to use this script:
 	1. Enable Developer Options by going to ABOUT >> SYSTEM >> Click the BUILD NUMBER 7 times (Universally) incase of MIUI, Click MIUI VERSION 7 times.
 	2. Enable USB Debugging
 	3. Download and Run the EnSecacy.exe script within the DOWNLOADED folder itself, else it will not work.
 	Everything else has been elaborated in EnSecacy.exe itself in detail.
 
-About Me:
+# About Me:
 	I'm Pavana Narayana Bhat, a coder, and a YouTuber running PiXinCreate on YouTube. 
 	I make videos related to Photo editing where I teach my fellow viewers to edit photos on their own to the extinct I know. 
 	I'm a Privacy Centered tech enthusiast.
@@ -31,14 +31,14 @@ About Me:
 © PiXinCreate
 All rigths reserved.
 
-	ChangeLogs:
+# ChangeLogs:
 
-		v1: 	Initial Release
-	
-		v2: 	Fixed Exit Option which was not working.
+	v1: 	Initial Release
+
+	v2: 	Fixed Exit Option which was not working.
 			Added Refresh Rate Config.(It may/may_not WORK.) You cannot expect more from it
 		
-		v3: 	UI changes, and fixed some typos
+	v3: 	UI changes, and fixed some typos
 	
 	
 		

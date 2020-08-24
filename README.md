@@ -1,4 +1,4 @@
-# EnSecacy-V3
+# EnSecacy
 
 Detect and Remove "ALL" MIUI Bloatwares and "Enhance" your Privacy.
 

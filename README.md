@@ -1,4 +1,4 @@
-# EnSecacy
+# EnSecacy Journey from AdUI to AdlessUI
 
 Detect and Remove "ALL" MIUI Bloatwares and "Enhance" your Privacy.
 

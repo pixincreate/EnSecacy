@@ -19,10 +19,13 @@ V3 is the 3rd version and I've uploaded it right here.
 - Download and Run the EnSecacy.exe script within the DOWNLOADED folder itself, else it will not work.
 Everything else has been elaborated in EnSecacy.exe itself in detail.
 
-## Known Issue with MIUI 12 Android 10
+## Known Issue with MIUI 12 Android 10:
 - Disabling, Uninstalling system Apps like fashion gallery is not possible. (You'll get ```FAILURE[-1000]``` )
 - Xiaomi has messed up with ADB.
 - Changed some package names.
+
+## Join hands:
+If you've any idea or willing to develop and improve ADlessUI(MIUI without Ads) community, join EnSecacy today..:)
 
 ## About Me:
 I'm Pavana Narayana Bhat, a coder, and a YouTuber running PiXinCreate on YouTube. 

@@ -39,11 +39,12 @@ All rigths reserved.
 
 # ChangeLogs:
 		
-v1: - Initial Release.
+v1: 		- Initial Release.
 
-v2: - Fixed Exit Option which was not working. - Added Refresh Rate Config.(It may/may_not WORK.) You cannot expect more from it.
+v2: 		- Fixed Exit Option which was not working.
+		- Added Refresh Rate Config.(It may/may_not WORK.) You cannot expect more from it.
 
-v3: - UI changes.
+v3: 		- UI changes.
 
 v4-Major: 	- Total Code Revamp.
 		- Removed removal of necessary apps like MiMessaging, Chrome etc.,

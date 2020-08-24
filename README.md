@@ -19,6 +19,11 @@ V3 is the 3rd version and I've uploaded it right here.
 - Download and Run the EnSecacy.exe script within the DOWNLOADED folder itself, else it will not work.
 Everything else has been elaborated in EnSecacy.exe itself in detail.
 
+## Known Issue with MIUI 12 Android 10
+- Disabling, Uninstalling system Apps like fashion gallery is not possible. (You'll get ```FAILURE[-1000]``` )
+- Xiaomi has messed up with ADB.
+- Changed some package names.
+
 ## About Me:
 I'm Pavana Narayana Bhat, a coder, and a YouTuber running PiXinCreate on YouTube. 
 I make videos related to Photo editing where I teach my fellow viewers to edit photos on their own to the extinct I know. 

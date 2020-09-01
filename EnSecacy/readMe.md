@@ -29,18 +29,22 @@ You can find me on: Instagram, Facebook, YouTube, Twitter
 All rigths reserved.
 
 # ChangeLogs:
-v1: 		- Initial Release.
+v1:
+- Initial Release.
 
-v2: 		- Fixed ```Exit``` Option which was not working.
-		- Added ```Refresh Rate Config```.(It may/may_not WORK.) You cannot expect more from it.
+v2:
+- Fixed ```Exit``` Option which was not working.
+- Added ```Refresh Rate Config```.(It may/may_not WORK.) You cannot expect more from it.
 	
-v3: 		- ```UI``` changes.
+v3:
+- ```UI``` changes.
 
-v4-Major:	- Total Code ```Revamp```.
-		- Removed removal of necessary apps like ```MiMessaging, Chrome etc.,```
-		- ```Removed Refresh rate config```(Felt like it's a gimmik).
-		- Made the restricted-- Pressing commands other than ```y``` or ```n``` will result in ```Error``` that forces you to ```start over```.
-		- Added ```App re-installer``` incase you find something wrong(which it will not).
-		- Debloating process will go of 2 types- ```with user data``` and ```without```.
-		- Much more in the EnSecacy itself, check it out!
+v4-Major:
+- Total Code ```Revamp```.
+- Removed removal of necessary apps like ```MiMessaging, Chrome etc.,```
+- ```Removed Refresh rate config```(Felt like it's a gimmik).
+- Made the restricted-- Pressing commands other than ```y``` or ```n``` will result in ```Error``` that forces you to ```start over```.
+- Added ```App re-installer``` incase you find something wrong(which it will not).
+- Debloating process will go of 2 types- ```with user data``` and ```without```.
+- Much more in the EnSecacy itself, check it out!
 		

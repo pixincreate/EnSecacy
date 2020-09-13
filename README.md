@@ -18,7 +18,7 @@ It's developed by Pavana Narayana Bhat AKA pixincreate(the guy you see on YouTub
 Everything else has been elaborated in EnSecacy.exe itself in detail.
 
 ## Known Issue with MIUI 12 Android 10:
-- Disabling, Uninstalling system Apps like fashion gallery is not possible. (You'll get ```FAILURE[-1000]``` )
+- Disabling, Uninstalling system Apps like fashion gallery is not possible(yet). (You'll get ```FAILURE[-1000]``` )
 - Xiaomi has messed up with ADB.
 - Changed some package names.
 

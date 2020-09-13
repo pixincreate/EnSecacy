@@ -31,7 +31,7 @@ Everything else has been elaborated in EnSecacy.exe itself in detail.
 ##### Does it require Bootloader unlock?
 **A:** No
 ##### ADB needs to be installed on my pc?
-**A:** Not really, everything i.e. required by EnSecacy to work can be found *[here]()*
+**A:** Not really, everything i.e. required by EnSecacy to work can be found *[here](https://github.com/pixincreate/EnSecacy--MIUI-Ads-remover/releases/tag/V4-Major)*
 #
 ## Join hands:
 If you've any idea or willing to develop and improve ADlessUI(MIUI without Ads) community, join EnSecacy today..:)

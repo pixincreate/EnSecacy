@@ -1,6 +1,6 @@
 # EnSecacy! The Journey from AdUI to AdlessUI
 Detect and Remove "ALL" MIUI Bloatwares and "Enhance" your Privacy.
-#
+
 ## About EnSecacy:
    **EnSecacy**'s expansion is Enhanced Security and Privacy. Although it's not "really" enhanced,
 this script will help you in getting out of trackers
@@ -9,18 +9,18 @@ executing my script EnSecacy. **No body on this earth wants their personal data 
 
 And this is what led me to create EnSecacy and create this repo.
 It's developed by Pavana Narayana Bhat AKA pixincreate(the guy you see on YouTube especially).
-#
+
 ## Steps to followed to use this script:
 - Enable Developer Options by going to ABOUT >> SYSTEM >> Click the BUILD NUMBER 7 times (Universally) incase of MIUI, Click MIUI VERSION 7 times.
 - Enable USB Debugging
 - Download and Run the EnSecacy.exe script within the DOWNLOADED folder itself, else it will not work.
 Everything else has been elaborated in EnSecacy.exe itself in detail.
-#
+
 ## Known Issue with MIUI 12 Android 10:
 - Disabling, Uninstalling system Apps like fashion gallery is not possible. (You'll get ```FAILURE[-1000]``` )
 - Xiaomi has messed up with ADB.
 - Changed some package names.
-#
+
 ## FAQ:
 ##### Will it affect warranty of the device?
 **A:** No
@@ -32,10 +32,10 @@ Everything else has been elaborated in EnSecacy.exe itself in detail.
 **A:** No
 ##### ADB needs to be installed on my pc?
 **A:** Not really, everything i.e. required by EnSecacy to work can be found *[here](https://github.com/pixincreate/EnSecacy--MIUI-Ads-remover/releases/tag/V4-Major)*
-#
+
 ## Join hands:
 If you've any idea or willing to develop and improve ADlessUI(MIUI without Ads) community, join EnSecacy today..:)
-#
+
 ## About Me:
 I'm Pavana Narayana Bhat, a coder, and a YouTuber running PiXinCreate on YouTube. 
 I make videos related to Photo editing where I teach my fellow viewers to edit photos on their own to the extinct I know. 
@@ -45,6 +45,7 @@ You can find me on: Instagram, Facebook, YouTube, Twitter
 
 © PiXinCreate
 All rigths reserved.
+
 #
 # ChangeLogs:		
 ### v1:

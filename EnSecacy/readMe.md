@@ -9,6 +9,6 @@ Thank you for downloading my Script.
 - Run the EnSecacy.exe script **within this folder itself**, else it will not work.
 - Everything else has been elaborated in detail in the EnSecacy itself.
 
-Read more about **EnSecacy** *[here]()*
+Read more about **EnSecacy** *[here](https://github.com/pixincreate/EnSecacy--MIUI-Ads-remover/blob/master/README.md)*
 
  **EnSecacy** comes under CC0 1.0 Universal License © Pavana Narayana Bhat

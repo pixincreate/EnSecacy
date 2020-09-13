@@ -9,6 +9,7 @@ executing my script EnSecacy. **No body on this earth wants their personal data 
 
 And this is what led me to create EnSecacy and create this repo.
 It's developed by Pavana Narayana Bhat AKA pixincreate(the guy you see on YouTube especially).
+**EnSecacy** comes under CC0 1.0 Universal License © Pavana Narayana Bhat
 
 ## Steps to followed to use this script:
 - Enable Developer Options by going to ABOUT >> SYSTEM >> Click the BUILD NUMBER 7 times (Universally) incase of MIUI, Click MIUI VERSION 7 times.

@@ -10,9 +10,5 @@ However, MIUI 12, Android 10, now is not supported as Xiaomi has messed up with 
 
 ## Reporting a Vulnerability
 
-For any Bugs / Vulnerabilities in Code / Security, please raise an *[Issue Ticket](https://github.com/pixincreate
-/
-EnSecacy--MIUI-Ads-remover/issues/new)* under the *[Issues Tab](https://github.com/pixincreate
-/
-EnSecacy--MIUI-Ads-remover/issues)* of this Repository. Any further Corrections and Updates will be considered on the basis of the raised issues.
+For any Bugs / Vulnerabilities in Code / Security, please raise an *[Issue Ticket](https://github.com/pixincreate/EnSecacy--MIUI-Ads-remover/issues/new)* under the *[Issues Tab](https://github.com/pixincreate/EnSecacy--MIUI-Ads-remover/issues)* of this Repository. Any further Corrections and Updates will be considered on the basis of the raised issues.
 
